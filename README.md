@@ -28,7 +28,7 @@
 
 This is a mongoDB and Express back end social network API application.
 
-```md
+```
 * When a user enters `npm run dev` in the command line, then the server is started and the Mongoose models are synced to the MongoDB database.
 
 * When the user opens API GET routes in Insomnia for users and thoughts, then the data for each of these routes is displayed in a formatted JSON
