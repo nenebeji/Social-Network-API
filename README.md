@@ -28,16 +28,17 @@
 
 This is a mongoDB and Express back end social network API application.
 
-* When a user adds their database name, MySQL username, and MySQL password to an environment variable file they are connected to a database using Sequelize.
+```md
+* When a user enters `npm run dev` in the command line, then the server is started and the Mongoose models are synced to the MongoDB database.
 
-* When the user enters schema and seeds commands, a development database is created and is seeded with test data.
+* When the user opens API GET routes in Insomnia for users and thoughts, then the data for each of these routes is displayed in a formatted JSON
 
-* When they enter the command to invoke the application their server is started and the Sequelize models are synced to the MySQL database.
+* When they test API POST, PUT, and DELETE routes in Insomnia, they are able to successfully create, update, and delete users and thoughts in my database
 
 * When they open API GET routes in Insomnia for categories, products, or tags, the data for each of these routes is displayed in a formatted JSON.
 
-* Users can test API POST, PUT, and DELETE routes in Insomnia to successfully create, update, and delete data in my database.
-
+* Users can also test API POST and DELETE routes in Insomnia, and successfully create and delete reactions to thoughts and add and remove friends to a user’s friend list.
+```
 
 ## Installation
 
