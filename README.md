@@ -96,7 +96,7 @@ Github Repo: https://github.com/nenebeji/Social-Network-API
 
 ### Walthrough Video
 
-https://drive.google.com/file/d/1v9qPa69lTiyd7DUafJladSLGshRDyrDh/view?usp=sharing
+https://drive.google.com/file/d/1_GaHKAZHWhc7o9RQYoLiRz_NQYzngutm/view?usp=sharing
 
 
 ## License
