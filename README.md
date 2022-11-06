@@ -28,7 +28,6 @@
 
 This is a mongoDB and Express back end social network API application.
 
-```
 * When a user enters `npm run dev` in the command line, then the server is started and the Mongoose models are synced to the MongoDB database.
 
 * When the user opens API GET routes in Insomnia for users and thoughts, then the data for each of these routes is displayed in a formatted JSON
@@ -38,7 +37,7 @@ This is a mongoDB and Express back end social network API application.
 * When they open API GET routes in Insomnia for categories, products, or tags, the data for each of these routes is displayed in a formatted JSON.
 
 * Users can also test API POST and DELETE routes in Insomnia, and successfully create and delete reactions to thoughts and add and remove friends to a user’s friend list.
-```
+
 
 ## Installation
 
